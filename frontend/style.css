@@ -6,7 +6,7 @@
   --text:#f0e0cc;--muted:#9a7050;--muted2:#7a5535;
   --acc:#f08030;--acc2:#ffb347;--glow:rgba(240,128,48,0.3);
   --ok:#6dbe8a;--warn:#f0c040;--bad:#e05060;
-  --fd:'Playfair Display',serif;--fb:'DM Sans',sans-serif;--fp:'Caveat',cursive;
+  --fd:'Playfair Display',serif;--fb:'DM Sans',sans-serif;--fp:'GamjaFlower',cursive;
   --r:20px;--rs:12px;--tr:0.28s cubic-bezier(0.4,0,0.2,1);
   --fsm:13px;--fb1:17px;--fmd:20px;--flg:32px;
 }
